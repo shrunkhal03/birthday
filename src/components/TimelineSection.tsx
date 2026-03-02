@@ -14,25 +14,25 @@ const timelineItems: TimelineItem[] = [
     title: "The Day We Met",
     description: "That magical moment when our eyes first met. I knew right then that something beautiful was about to begin. My heart skipped a beat, and it hasn't stopped since.",
     emoji: "✨",
-    image: "/Media.jpg",
+    image: "/Media (11).jpg",
   },
   {
     title: "Our First Smile Together",
     description: "Your smile lit up the entire room. In that instant, I found myself falling for the warmth and joy you bring into my life. A smile I never want to live without.",
     emoji: "😊",
-    image: "/shared image (2).jpg",
+    image: "/Snapchat-1130504363.jpg",
   },
   {
     title: "Little Moments I Love",
     description: "The late-night conversations, the random laughs, the way you say my name. Every little moment with you becomes a treasure I hold close to my heart.",
     emoji: "💫",
-    image: "/shared image (3).jpg",
+    image: "/image2.jpg",
   },
   {
     title: "Today & Forever",
     description: "Here we are, celebrating another year of you. Every day with you is a gift, and I promise to cherish you today, tomorrow, and always.",
     emoji: "❤️",
-    image: "/Media (3).jpg",
+    image: "/image3.jpg",
   },
 ];
 

@@ -134,7 +134,7 @@ const BirthdayRevealSection = () => {
                 transition={{ delay: 0.3 }}
               >
                 Happy Birthday,{" "}
-                <span className="text-primary">My Love</span> ❤️
+                <span className="text-primary">Mazi Debu,Mazi Divu, Mazi Madam</span> ❤️
               </motion.h2>
 
               <motion.p

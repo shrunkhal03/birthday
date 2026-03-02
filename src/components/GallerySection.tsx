@@ -8,12 +8,12 @@ interface Photo {
 }
 
 const photos: Photo[] = [
-  { id: 1, caption: "Our first adventure together 💕", rotation: -3, image: "/Media (4).jpg" },
-  { id: 2, caption: "That smile I fell for ✨", rotation: 2, image: "/Media (5).jpg" },
-  { id: 3, caption: "Late night memories 🌙", rotation: -2, image: "/Media (6).jpg" },
-  { id: 4, caption: "Always laughing with you 😊", rotation: 3, image: "/Media (7).jpg" },
-  { id: 5, caption: "My favorite person 💖", rotation: -1, image: "/Media (8).jpg" },
-  { id: 6, caption: "Us against the world 🌍", rotation: 2, image: "/Media (9).jpg" },
+  { id: 1, caption: "Our first adventure together 💕", rotation: -3, image: "/image4.jpg" },
+  { id: 2, caption: "That smile I fell for ✨", rotation: 2, image: "/image5.jpg" },
+  { id: 3, caption: "Late night memories 🌙", rotation: -2, image: "/shared image (4).jpg" },
+  { id: 4, caption: "Always laughing with you 😊", rotation: 3, image: "/shared image (8).jpg" },
+  { id: 5, caption: "My favorite person 💖", rotation: -1, image: "/shared image (10).jpg" },
+  { id: 6, caption: "Us against the world 🌍", rotation: 2, image: "/shared image (11).jpg" },
 ];
 
 const PolaroidCard = ({ photo, index }: { photo: Photo; index: number }) => {
