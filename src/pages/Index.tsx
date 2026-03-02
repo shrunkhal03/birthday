@@ -7,6 +7,7 @@ import LoveLetterSection from "@/components/LoveLetterSection";
 import BirthdayRevealSection from "@/components/BirthdayRevealSection";
 import ForeverSection from "@/components/ForeverSection";
 
+
 const Index = () => {
   const [started, setStarted] = useState(false);
   const mainContentRef = useRef<HTMLDivElement>(null);

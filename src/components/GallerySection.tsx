@@ -8,9 +8,9 @@ interface Photo {
 }
 
 const photos: Photo[] = [
-  { id: 1, caption: "Our first adventure together 💕", rotation: -3, image: "/image4.jpg" },
+  { id: 1, caption: "Our First date 💕", rotation: -3, image: "/image4.jpg" },
   { id: 2, caption: "That smile I fell for ✨", rotation: 2, image: "/image5.jpg" },
-  { id: 3, caption: "Late night memories 🌙", rotation: -2, image: "/shared image (4).jpg" },
+  { id: 3, caption: "I love the way you see me 🫶", rotation: -2, image: "/shared image (4).jpg" },
   { id: 4, caption: "Always laughing with you 😊", rotation: 3, image: "/shared image (8).jpg" },
   { id: 5, caption: "My favorite person 💖", rotation: -1, image: "/shared image (10).jpg" },
   { id: 6, caption: "Us against the world 🌍", rotation: 2, image: "/shared image (11).jpg" },
@@ -74,7 +74,7 @@ const GallerySection = () => {
             Moments frozen in time, forever in my heart
           </p>
           <p className="font-body text-muted-foreground/70 text-sm mt-2 italic">
-            (Hover to see captions • Replace images with your own photos)
+            (Hover to see captions)
           </p>
         </motion.div>
 
